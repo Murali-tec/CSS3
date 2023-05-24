@@ -1,0 +1,22 @@
+/* *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+} */
+
+p{
+    font-size:2rem;
+    width:50vw;
+
+}
+ 
+body{
+    /* font-size: 2em; */
+}
+
+h1{
+    border:2px dashed black;
+    padding:1em;
+    width:50%;
+}
+
